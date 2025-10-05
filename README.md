@@ -63,7 +63,9 @@ curl http://127.0.0.1:5000/messages
 
 <img width="1848" height="945" alt="Screenshot 2025-10-05 194223" src="https://github.com/user-attachments/assets/5a225e46-d7ac-4122-9c13-af3e389cc2f8" />
 
+<img width="1916" height="874" alt="image" src="https://github.com/user-attachments/assets/066e7fd2-4afe-4580-aa50-6e5830016ee7" />
 
+<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/cb855393-a439-4224-8dd2-322ba0fd2308" />
 
 
 
